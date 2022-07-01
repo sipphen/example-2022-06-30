@@ -6,22 +6,36 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T20:30:32-04:00"
+      "last_modified": "2022-06-30T21:03:09-04:00"
+    },
+    {
+      "path": "get_data.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T21:03:10-04:00"
     },
     {
       "path": "hof.html",
       "author": [],
       "date": "2022-06-28",
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T20:30:37-04:00"
+      "last_modified": "2022-06-30T21:03:15-04:00"
     },
     {
       "path": "index.html",
       "title": "hall of fame",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T20:30:37-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T21:03:15-04:00"
     }
   ],
   "collections": []
